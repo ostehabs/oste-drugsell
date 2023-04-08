@@ -6,6 +6,9 @@ Some of the things you see in the preview are in Danish, but this has been chang
 
 Preview:
 https://www.youtube.com/watch?v=Q_oGIYpy5Lk
+Discord:
+https://discord.gg/rwnwevZGTw
+
 
 ## Installation Guide
 
