@@ -4,6 +4,9 @@ If any bugs are found it would be nice to get feedback on my discord.
 
 Some of the things you see in the preview are in Danish, but this has been changed in the script.
 
+Preview:
+https://www.youtube.com/watch?v=Q_oGIYpy5Lk
+
 ## Installation Guide
 
 -- qb-core/shared/items
